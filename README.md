@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project performs sentiment analysis on a dataset of Mayfair hotel reviews using Natural Language Processing (NLP) techniques. The goal is to classify reviews into positive, negative, and neutral sentiments.
+This project performs sentiment analysis on a dataset of Mayfair reviews using Natural Language Processing (NLP) techniques. The goal is to classify reviews into positive, negative, and neutral sentiments.
 
 The project involves the following steps:
 
@@ -39,7 +39,7 @@ The project involves the following steps:
 
 ## Conclusion
 
-The BOW model, trained on the cleaned and preprocessed review data, is the recommended model for classifying the sentiment of Mayfair hotel reviews. It provides good overall performance and strikes a balance between all three sentiment classes.
+The BOW model, trained on the cleaned and preprocessed review data, is the recommended model for classifying the sentiment of Mayfair reviews. It provides good overall performance and strikes a balance between all three sentiment classes.
 
 ## Future Work
 
@@ -88,7 +88,10 @@ This project is licensed under the MIT License.
 
                                      
                                       
+                                     
+                                      
                                       ## UPDATED WITH LR, XGBOOST, SVN, RFC, LSTM
+                                      
 This project focuses on performing sentiment analysis on customer reviews of Mayfair hotels, aiming to understand customer satisfaction and identify areas for improvement.
 
 ## Dataset
@@ -131,7 +134,7 @@ The project uses a combined dataset of customer reviews (`combined_reviews_datas
 
 ## Conclusion
 
-This project provides valuable insights into customer sentiment toward Mayfair hotels. The insights gained can be leveraged to address customer concerns, enhance services, and improve overall customer satisfaction. Further refinements to improve neutral sentiment detection are recommended.
+This project provides valuable insights into customer sentiment toward Mayfair. The insights gained can be leveraged to address customer concerns, enhance services, and improve overall customer satisfaction. Further refinements to improve neutral sentiment detection are recommended.
 
 ## Future Work
 
